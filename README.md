@@ -5,4 +5,5 @@
 Hi! I'm hamusuke.
 I love Java!
 
-![](https://github-readme-stats.vercel.app/api?username=hamusuke0323&count_private=true&show_icons=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamusuke0323)
+<img src="https://github-readme-stats.vercel.app/api?username=hamusuke0323&count_private=true&show_icons=true" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamusuke0323"/>
