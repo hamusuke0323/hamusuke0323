@@ -5,5 +5,5 @@
 Hi! I'm hamusuke.
 I love Java!
 
-<img src="https://github-readme-stats.vercel.app/api?username=hamusuke0323&count_private=true&show_icons=true" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hamusuke0323&count_private=true&show_icons=true&custom_title=hamusuke0323%27s%20GitHub%20Stats" align="left"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamusuke0323"/>
