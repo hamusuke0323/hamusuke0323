@@ -7,3 +7,5 @@ I love Java!
 
 <img src="https://github-readme-stats.vercel.app/api?username=hamusuke0323&count_private=true&show_icons=true" align="left"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamusuke0323"/>
+
+<img src="https://komarev.com/ghpvc/?username=hamusuke0323&style=flat-square">
