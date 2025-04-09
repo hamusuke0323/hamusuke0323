@@ -1,6 +1,6 @@
 # hamusuke0323
 
-![](https://img.shields.io/badge/age-19-yellow) ![](https://img.shields.io/badge/Java-%E2%9D%A4-red) ![](https://komarev.com/ghpvc/?username=hamusuke0323&style=flat-square)
+![](https://img.shields.io/badge/age-20-purple) ![](https://img.shields.io/badge/Java-%E2%9D%A4-red) ![](https://komarev.com/ghpvc/?username=hamusuke0323&style=flat-square)
 
 Hi there👋 I'm hamusuke, a university student.
 <br>
